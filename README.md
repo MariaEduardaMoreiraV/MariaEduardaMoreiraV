@@ -21,6 +21,21 @@
 - Obter novas certificações focadas em computação em nuvem  
 - Desenvolver um portfólio com projetos que demonstrem minha evolução técnica
 
+
+## 🌐 Conecte-se comigo
+
+<div> 
+  <a href="https://www.linkedin.com/in/maria-eduarda-moreira-valerio/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+  <a href="mailto:eduardamoreira0021@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/madulex/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
 <!--
 **MariaEduardaMoreiraV/MariaEduardaMoreiraV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
