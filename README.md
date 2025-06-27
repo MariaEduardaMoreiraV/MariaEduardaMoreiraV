@@ -5,13 +5,21 @@
 <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" height="320" alt="Boas-vindas" />
 
 </div>
-##  Sobre mim
+
+##  Sobre mim 
 
 - Futura aluna de Análise e Desenvolvimento de Sistemas  
 - Certificada em AWS Cloud Practitioner ☁️    
 - Atualmente estudando **C#**, **Python** e fundamentos de computação em nuvem  
 - Apaixonada por tecnologia, livros — e por músicas que me acompanham enquanto estudo! 
 
+## Objetivos
+
+- Iniciar a faculdade de Análise e Desenvolvimento de Sistemas (ADS)  
+- Continuar aprendendo e praticando com projetos pessoais  
+- Conquistar uma oportunidade de estágio na área de TI  
+- Obter novas certificações focadas em computação em nuvem  
+- Desenvolver um portfólio com projetos que demonstrem minha evolução técnica
 
 <!--
 **MariaEduardaMoreiraV/MariaEduardaMoreiraV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
