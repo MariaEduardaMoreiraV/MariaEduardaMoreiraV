@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center">
+
+# 👋 Seja bem-vindo(a) ao meu GitHub!
+
+<img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" height="320" alt="Boas-vindas" />
+
+</div>
+
 
 <!--
 **MariaEduardaMoreiraV/MariaEduardaMoreiraV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
