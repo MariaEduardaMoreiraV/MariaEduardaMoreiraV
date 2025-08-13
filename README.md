@@ -2,12 +2,12 @@
 
 #  Seja bem-vindo(a) ao meu GitHub!
 
-<img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" height="320" alt="Boas-vindas" />
+<img src="https://i.pinimg.com/1200x/ca/68/bd/ca68bdf3fc5fe6f66061f80bdb067dbf.jpg" height="320" alt="Boas-vindas" />
 
 </div>
 
 ##  Sobre mim 
-
+<img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" height="320" alt="Boas-vindas" />
 - Futura aluna de Análise e Desenvolvimento de Sistemas  
 - Certificada em AWS Cloud Practitioner ☁️    
 - Atualmente estudando **C#**, **Python** e fundamentos de computação em nuvem  
