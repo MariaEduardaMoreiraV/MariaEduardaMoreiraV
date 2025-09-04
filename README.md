@@ -14,9 +14,14 @@
 
 <br>
 
-<img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" height="320" alt="Boas-vindas" />
+<img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" height="
+- Estudante de Análise e Desenvolvimento de Sistemas  
+- Certificada em AWS Cloud Practitioner ☁️    
+- Apaixonada por tecnologia, livros — e por músicas que me acompanham enquanto estudo!  |
+|---|---| 
 
-<br>
+
+<br><br>
 
 - Estudante de Análise e Desenvolvimento de Sistemas  
 - Certificada em AWS Cloud Practitioner ☁️    
