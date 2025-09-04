@@ -5,27 +5,43 @@
 <img src="https://i.pinimg.com/1200x/ca/68/bd/ca68bdf3fc5fe6f66061f80bdb067dbf.jpg" height="320" alt="Boas-vindas" />
 
 </div>
-</div>
-</div>
-</div>
-</div>
 
+<br><br>
+
+---
 
 ##  Sobre mim 
+
+<br>
+
 <img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" height="320" alt="Boas-vindas" />
-- Estudante de Análise e Desenvolvimento de Sistemas
+
+<br>
+
+- Estudante de Análise e Desenvolvimento de Sistemas  
 - Certificada em AWS Cloud Practitioner ☁️    
-- Apaixonada por tecnologia, livros — e por músicas que me acompanham enquanto estudo! 
+- Apaixonada por tecnologia, livros — e por músicas que me acompanham enquanto estudo!  
+
+<br><br>
+
+---
 
 ## Objetivos
- 
+
+<br>
+
 - Continuar aprendendo e praticando com projetos pessoais  
 - Conquistar uma oportunidade de estágio na área de TI  
 - Obter novas certificações focadas em computação em nuvem  
-- Desenvolver um portfólio com projetos que demonstrem minha evolução técnica
+- Desenvolver um portfólio com projetos que demonstrem minha evolução técnica  
 
+<br><br>
+
+---
 
 ## 🌐 Conecte-se comigo
+
+<br>
 
 <div> 
   <a href="https://www.linkedin.com/in/maria-eduarda-moreira-valerio/" target="_blank">
